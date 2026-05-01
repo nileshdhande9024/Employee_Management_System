@@ -101,8 +101,7 @@ http://localhost:8090/
 
 ## Deployment
 
-Backend deployed on AWS EC2
-Frontend deployed on (add if applicable)
+Frontend and Backend deployed on AWS EC2
 
 ---
 
